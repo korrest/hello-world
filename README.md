@@ -1,2 +1,3 @@
 # hello-world
-test learn github
+Hi,everyone
+I'm a novice ，I want to learn more Programming skills
